@@ -1,8 +1,8 @@
 import React from 'react'
 export default function Home() {
-    return (
-    <div id="home" class="header">
-		<div class="container">
+	return (
+		<div id="home" class="header">
+			<div class="container">
 				<div class="banner-info">
 					<div class="col-md-7 header-right">
 						<h1>Hi !</h1>
@@ -39,7 +39,7 @@ export default function Home() {
 								<ul class="address-text">
 									<li><b>LINKEDIN</b></li>
 									<li><a
-											href="https://www.linkedin.com/in/ah-naeem/">https://www.linkedin.com/in/ah-naeem/</a>
+										href="https://www.linkedin.com/in/ah-naeem/">https://www.linkedin.com/in/ah-naeem/</a>
 									</li>
 								</ul>
 							</li>
@@ -54,12 +54,12 @@ export default function Home() {
 					</div>
 					<div class="flex-column col-md-5 header-left d-flex justify-content-center">
 						<a href='/'><button type="button" class="btn btn-warning btn-lg">Download
-								Resume</button></a>
+							Resume</button></a>
 					</div>
 					<div class="clearfix"> </div>
 
 				</div>
 			</div>
 		</div>
-    )
+	)
 }
