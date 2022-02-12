@@ -50,7 +50,7 @@ export default function Navbar() {
           <form class="d-flex">
             <SocialIcon url="https://github.com/" className="mr-4" target='_blank' fgColor='#fff' style={{ height: 35, width: 35 }} />
             <SocialIcon url="https://www.linkedin.com/" className="mr-4" target='_blank' fgColor='#fff' style={{ height: 35, width: 35 }} />
-            <SocialIcon url="https://www.google.com" className="mr-4" target='_blank' fgColor='#fff' style={{ height: 35, width: 35 }} />
+            <SocialIcon url="https://drive.google.com/file/d/1r5Zx5EE-p8As-TkocLEC9HtEEtqBa2ML/view?usp=sharing" className="mr-4" target='_blank' fgColor='#fff' style={{ height: 35, width: 35 }} />
           </form>
         </div>
       </div>

@@ -32,7 +32,7 @@ export default function Home() {
 							<li>
 								<ul class="address-text">
 									<li><b>E-MAIL </b></li>
-									<li><a href="mailto:azmir15-849@diu.edu.bd"> azmir15-849@diu.edu.bd</a></li>
+									<li><a href="mailto:m.azmir.cse@gmail.com"> m.azmir.cse@gmail.com</a></li>
 								</ul>
 							</li>
 							<li>
@@ -53,7 +53,7 @@ export default function Home() {
 						</ul>
 					</div>
 					<div class="flex-column col-md-5 header-left d-flex justify-content-center">
-						<a href='/'><button type="button" class="btn btn-warning btn-lg">Download
+						<a href='https://drive.google.com/file/d/1r5Zx5EE-p8As-TkocLEC9HtEEtqBa2ML/view?usp=sharing'><button type="button" class="btn btn-warning btn-lg">Download
 							Resume</button></a>
 					</div>
 					<div class="clearfix"> </div>
