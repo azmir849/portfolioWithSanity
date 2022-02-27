@@ -53,7 +53,7 @@ export default function Home() {
 						</ul>
 					</div>
 					<div class="flex-column col-md-5 header-left d-flex justify-content-center">
-						<a href='https://drive.google.com/file/d/1r5Zx5EE-p8As-TkocLEC9HtEEtqBa2ML/view?usp=sharing'><button type="button" class="btn btn-warning btn-lg">Download
+						<a href='https://drive.google.com/file/d/1_0eZO_h3JKPcZaPsW4e_C0K3I8QEN6QU/view'><button type="button" class="btn btn-warning btn-lg">Download
 							Resume</button></a>
 					</div>
 					<div class="clearfix"> </div>
