@@ -7,7 +7,7 @@ export default function Home() {
           <div class='col-md-7 header-right'>
             <h1>Hi !</h1>
             <h6>I am a</h6>
-            <h6>Jr Software Engineer</h6>
+            <h6>Front-End Developer(React Js) </h6>
             {/* <p className='text-muted'>(MongoDB, Express Js, React Js, Node Js)</p> */}
             <ul class='address'>
               <li>
