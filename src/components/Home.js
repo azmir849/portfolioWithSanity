@@ -74,7 +74,8 @@ export default function Home() {
             </ul>
           </div>
           <div class='flex-column col-md-5 header-left d-flex justify-content-center'>
-            <a href='https://drive.google.com/file/d/1MqRQGBfyIkQIy6QqE0DvBiZSJIO1cZzR/view'>
+            <!-- <a href='https://drive.google.com/file/d/1MqRQGBfyIkQIy6QqE0DvBiZSJIO1cZzR/view'> -->
+            <a href='https://drive.google.com/file/d/1-_sqnTaZiXxlIAqGvPllHX7_V5ZvyrRa/view'>
               <button type='button' class='btn btn-warning btn-lg'>
                 Download Resume
               </button>
